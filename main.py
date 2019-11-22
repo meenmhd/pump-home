@@ -10,6 +10,8 @@ from tank import *
 from linenoti import *
 from pumpctrl import *
 
+# update water level
+update_tank()
 
 # loop while
 while True:
